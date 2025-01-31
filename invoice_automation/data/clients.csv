@@ -1,0 +1,6 @@
+Name,Email,InvoiceItems,Amount
+John Doe,johndoe@example.com,Product A;Product B,150.00
+Jane Smith,janesmith@example.com,Service A,200.00
+Alice Johnson,alicej@example.com,Consulting; Support,350.50
+Bob Brown,bobb@example.com,Web Design,500.00
+
